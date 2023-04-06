@@ -66,6 +66,25 @@ RegisterNumber:
 Logic symbol & Truthtable
 RTL realization
 Output:
+
+program:
+
+![de code1](https://user-images.githubusercontent.com/119476247/230300276-7a7760d1-5b6b-40a5-b9a5-a19691d401ba.png)
+
+
+model output:
+
+![Ex01 de output(m)](https://user-images.githubusercontent.com/119476247/230300457-e4bc7dd2-104b-4ef4-81be-f99a4f093ea8.png)
+
+
+truth table:
+
+![Screenshot 2023-04-06 121651](https://user-images.githubusercontent.com/119476247/230300729-07e3fc7b-519d-4df8-b901-b078ba1a1147.png)
+
+wave form:
+![Screenshot 2023-04-06 113328](https://user-images.githubusercontent.com/119476247/230301003-b75ca76b-3323-415c-b3cc-cd4c4db0448b.png)
+
+
 RTL
 
 Result:
